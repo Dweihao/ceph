@@ -1,1 +1,1 @@
-from quay.io/ceph/ceph:v19.2.0
+from quay.io/ceph/ceph:v19
